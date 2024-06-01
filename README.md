@@ -1,3 +1,5 @@
-//readme for calculator <br>
+# Demo
 
-//author -Payel
+Git Demo
+
+Clone the prject with git clone Command
